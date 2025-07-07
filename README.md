@@ -92,3 +92,7 @@ Qubic provides a high-speed, decentralized compute environment perfect for verif
 📜 License
 
 MIT License  free for public use and contribution.
+
+Solo Submission Note
+
+This project was created by a solo participant, Iniubong Ebong, as part of the Qubic Track at RAISE Your Hack. While I faced team challenges, I remained committed to researching, documenting, and building a clear blueprint and prototype for a functional tool. AuditChain is my solo contribution to the hackathon and my proof of determination to grow in Web3.
